@@ -6,7 +6,7 @@ I mostly use Kali Linux to do penetration tests and VS code to create some proje
 
 In this profile, i'll post some projects, experiments and things im currently working on. Everything here is built by me from scratch, no copy/paste templates.
 
-───────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────
 ## TOOLS & TECH
 • BASH, Python
 
@@ -14,7 +14,7 @@ In this profile, i'll post some projects, experiments and things im currently wo
 
 • CIDR Notation, TCP/UDP, IPV4 IP Adresses, Ports
 
-───────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────
 ## GOALS (to learn)
 • Languages : JavaScript, C, C++, SQL, Powershell
 
